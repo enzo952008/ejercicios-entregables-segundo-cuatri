@@ -1,0 +1,12 @@
+.characters-item {
+    
+    border: 3px solid #0dcc30;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.characters-item img {
+    max-width: 100px;
+} 
